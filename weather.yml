@@ -1,0 +1,39 @@
+name: 🌍 Weather Auto-Committer
+
+on:
+  schedule:
+    - cron: '0 6  * * *'   # 6:00 AM UTC  — Morning update
+    - cron: '0 18 * * *'   # 6:00 PM UTC  — Evening update
+  workflow_dispatch:         # Manual trigger from GitHub UI
+
+jobs:
+  update-weather:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 🌦️ Fetch weather for all 5 countries
+        run: python fetch_weather.py
+
+      - name: 📝 Commit & push weather report
+        run: |
+          git config user.name  "weather-bot[bot]"
+          git config user.email "weather-bot[bot]@users.noreply.github.com"
+          git add weather/WEATHER.md README.md 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "⚠️  Nothing changed — skipping commit."
+          else
+            SLOT=$([ $(date -u +%H) -lt 12 ] && echo "🌅 Morning" || echo "🌆 Evening")
+            git commit -m "${SLOT} weather update 🌍 — $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "✅ Weather committed!"
+          fi
