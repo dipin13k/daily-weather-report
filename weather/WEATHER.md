@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌅 Morning Update** — 2026-03-10 06:34 UTC
+> **🌆 Evening Update** — 2026-03-10 18:32 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 12:19 PM NPT | 25.6°C | Partly Cloudy ⛅ |
-| 🇮🇳 | **New Delhi** | India | 12:04 PM IST | 31.7°C | Clear Sky ☀️ |
-| 🇺🇸 | **New York** | USA | 02:34 AM EDT | 9.3°C | Clear Sky ☀️ |
-| 🇦🇺 | **Sydney** | Australia | 04:34 PM AEST | 25.3°C | Partly Cloudy ⛅ |
-| 🇳🇬 | **Lagos** | Nigeria | 07:34 AM WAT | 28.7°C | Overcast ☁️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 12:17 AM NPT | 17.0°C | Partly Cloudy ⛅ |
+| 🇮🇳 | **New Delhi** | India | 12:02 AM IST | 24.5°C | Clear Sky ☀️ |
+| 🇺🇸 | **New York** | USA | 02:33 PM EDT | 25.8°C | Clear Sky ☀️ |
+| 🇦🇺 | **Sydney** | Australia | 04:33 AM AEST | 19.0°C | Clear Sky ☀️ |
+| 🇳🇬 | **Lagos** | Nigeria | 07:33 PM WAT | 29.3°C | Overcast ☁️ |
 
 ---
 
@@ -22,55 +22,55 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:19 PM NPT &nbsp;|&nbsp; 📅 Tuesday, Mar 10 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:17 AM NPT &nbsp;|&nbsp; 📅 Wednesday, Mar 11 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **25.6°C** | 26.9°C | 45% | 6.2 km/h | 0.0 mm | 1.85 |
+| **17.0°C** | 18.1°C | 90% | 4.9 km/h | 0.0 mm | 0.0 |
 
 > Partly Cloudy ⛅
 
 
 ### 🇮🇳 New Delhi, India
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:04 PM IST &nbsp;|&nbsp; 📅 Tuesday, Mar 10 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:02 AM IST &nbsp;|&nbsp; 📅 Wednesday, Mar 11 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **31.7°C** | 37.3°C | 49% | 1.3 km/h | 0.0 mm | 5.65 |
+| **24.5°C** | 26.7°C | 65% | 3.0 km/h | 0.0 mm | 0.0 |
 
 > Clear Sky ☀️
 
 
 ### 🇺🇸 New York, USA
 
-**🌙 Night &nbsp;|&nbsp; 🕐 02:34 AM EDT &nbsp;|&nbsp; 📅 Tuesday, Mar 10 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:33 PM EDT &nbsp;|&nbsp; 📅 Tuesday, Mar 10 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **9.3°C** | 7.3°C | 71% | 4.6 km/h | 0.0 mm | 0.0 |
+| **25.8°C** | 23.0°C | 27% | 16.2 km/h | 0.0 mm | 5.05 |
 
 > Clear Sky ☀️
 
 
 ### 🇦🇺 Sydney, Australia
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:34 PM AEST &nbsp;|&nbsp; 📅 Tuesday, Mar 10 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 04:33 AM AEST &nbsp;|&nbsp; 📅 Wednesday, Mar 11 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **25.3°C** | 27.0°C | 68% | 11.2 km/h | 0.0 mm | 2.95 |
+| **19.0°C** | 21.5°C | 93% | 1.8 km/h | 0.0 mm | 0.0 |
 
-> Partly Cloudy ⛅
+> Clear Sky ☀️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 07:34 AM WAT &nbsp;|&nbsp; 📅 Tuesday, Mar 10 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 07:33 PM WAT &nbsp;|&nbsp; 📅 Tuesday, Mar 10 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **28.7°C** | 35.0°C | 85% | 7.4 km/h | 0.0 mm | 0.25 |
+| **29.3°C** | 34.4°C | 80% | 13.0 km/h | 0.0 mm | 0.05 |
 
 > Overcast ☁️
 
@@ -79,6 +79,6 @@
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-03-10 06:34 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-03-10 18:32 UTC*
 
 </div>
