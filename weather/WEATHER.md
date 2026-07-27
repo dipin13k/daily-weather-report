@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌅 Morning Update** — 2026-07-27 09:21 UTC
+> **🌆 Evening Update** — 2026-07-27 19:06 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 03:06 PM NPT | 25.8°C | Light Drizzle 🌦️ |
-| 🇮🇳 | **New Delhi** | India | 02:51 PM IST | 33.4°C | Thunderstorm + Hail ⛈️ |
-| 🇺🇸 | **New York** | USA | 05:21 AM EDT | 19.8°C | Mainly Clear 🌤️ |
-| 🇦🇺 | **Sydney** | Australia | 07:21 PM AEST | 13.7°C | Clear Sky ☀️ |
-| 🇳🇬 | **Lagos** | Nigeria | 10:21 AM WAT | 26.6°C | Overcast ☁️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 12:51 AM NPT | 21.1°C | Light Drizzle 🌦️ |
+| 🇮🇳 | **New Delhi** | India | 12:36 AM IST | 28.0°C | Light Drizzle 🌦️ |
+| 🇺🇸 | **New York** | USA | 03:06 PM EDT | 28.7°C | Partly Cloudy ⛅ |
+| 🇦🇺 | **Sydney** | Australia | 05:06 AM AEST | 9.4°C | Clear Sky ☀️ |
+| 🇳🇬 | **Lagos** | Nigeria | 08:06 PM WAT | 25.1°C | Light Drizzle 🌦️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:06 PM NPT &nbsp;|&nbsp; 📅 Monday, Jul 27 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:51 AM NPT &nbsp;|&nbsp; 📅 Tuesday, Jul 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **25.8°C** | 29.1°C | 73% | 6.2 km/h | 0.1 mm | 4.25 |
+| **21.1°C** | 24.9°C | 100% | 4.9 km/h | 0.1 mm | 0.0 |
 
 > Light Drizzle 🌦️
 
 
 ### 🇮🇳 New Delhi, India
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:51 PM IST &nbsp;|&nbsp; 📅 Monday, Jul 27 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:36 AM IST &nbsp;|&nbsp; 📅 Tuesday, Jul 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **33.4°C** | 39.8°C | 63% | 3.4 km/h | 0.6 mm | 1.45 |
+| **28.0°C** | 34.1°C | 92% | 11.7 km/h | 0.1 mm | 0.0 |
 
-> Thunderstorm + Hail ⛈️
+> Light Drizzle 🌦️
 
 
 ### 🇺🇸 New York, USA
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 05:21 AM EDT &nbsp;|&nbsp; 📅 Monday, Jul 27 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:06 PM EDT &nbsp;|&nbsp; 📅 Monday, Jul 27 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **19.8°C** | 21.3°C | 85% | 7.3 km/h | 0.0 mm | 0.0 |
+| **28.7°C** | 30.5°C | 55% | 12.3 km/h | 0.0 mm | 4.4 |
 
-> Mainly Clear 🌤️
+> Partly Cloudy ⛅
 
 
 ### 🇦🇺 Sydney, Australia
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 07:21 PM AEST &nbsp;|&nbsp; 📅 Monday, Jul 27 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 05:06 AM AEST &nbsp;|&nbsp; 📅 Tuesday, Jul 28 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **13.7°C** | 12.4°C | 84% | 11.1 km/h | 0.0 mm | 0.0 |
+| **9.4°C** | 8.0°C | 91% | 6.2 km/h | 0.0 mm | 0.0 |
 
 > Clear Sky ☀️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 10:21 AM WAT &nbsp;|&nbsp; 📅 Monday, Jul 27 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 08:06 PM WAT &nbsp;|&nbsp; 📅 Monday, Jul 27 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **26.6°C** | 30.0°C | 83% | 15.9 km/h | 0.0 mm | 3.5 |
+| **25.1°C** | 29.4°C | 93% | 11.7 km/h | 0.1 mm | 0.0 |
 
-> Overcast ☁️
+> Light Drizzle 🌦️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-07-27 09:21 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-07-27 19:06 UTC*
 
 </div>
