@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌅 Morning Update** — 2026-08-10 07:03 UTC
+> **🌆 Evening Update** — 2026-08-10 18:38 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 12:48 PM NPT | 23.6°C | Thunderstorm + Hail ⛈️ |
-| 🇮🇳 | **New Delhi** | India | 12:33 PM IST | 32.2°C | Overcast ☁️ |
-| 🇺🇸 | **New York** | USA | 03:03 AM EDT | 23.4°C | Clear Sky ☀️ |
-| 🇦🇺 | **Sydney** | Australia | 05:03 PM AEST | 12.6°C | Drizzle 🌦️ |
-| 🇳🇬 | **Lagos** | Nigeria | 08:03 AM WAT | 24.6°C | Overcast ☁️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 12:23 AM NPT | 20.7°C | Overcast ☁️ |
+| 🇮🇳 | **New Delhi** | India | 12:08 AM IST | 27.9°C | Thunderstorm ⛈️ |
+| 🇺🇸 | **New York** | USA | 02:38 PM EDT | 32.0°C | Mainly Clear 🌤️ |
+| 🇦🇺 | **Sydney** | Australia | 04:38 AM AEST | 13.9°C | Mainly Clear 🌤️ |
+| 🇳🇬 | **Lagos** | Nigeria | 07:38 PM WAT | 25.0°C | Partly Cloudy ⛅ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:48 PM NPT &nbsp;|&nbsp; 📅 Monday, Aug 10 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:23 AM NPT &nbsp;|&nbsp; 📅 Tuesday, Aug 11 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **23.6°C** | 27.8°C | 89% | 4.0 km/h | 0.9 mm | 0.4 |
+| **20.7°C** | 24.5°C | 99% | 3.1 km/h | 0.0 mm | 0.0 |
 
-> Thunderstorm + Hail ⛈️
+> Overcast ☁️
 
 
 ### 🇮🇳 New Delhi, India
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:33 PM IST &nbsp;|&nbsp; 📅 Monday, Aug 10 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:08 AM IST &nbsp;|&nbsp; 📅 Tuesday, Aug 11 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **32.2°C** | 40.7°C | 73% | 3.6 km/h | 0.0 mm | 6.2 |
+| **27.9°C** | 34.6°C | 91% | 6.1 km/h | 0.2 mm | 0.0 |
 
-> Overcast ☁️
+> Thunderstorm ⛈️
 
 
 ### 🇺🇸 New York, USA
 
-**🌙 Night &nbsp;|&nbsp; 🕐 03:03 AM EDT &nbsp;|&nbsp; 📅 Monday, Aug 10 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:38 PM EDT &nbsp;|&nbsp; 📅 Monday, Aug 10 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **23.4°C** | 26.1°C | 71% | 1.6 km/h | 0.0 mm | 0.0 |
+| **32.0°C** | 34.0°C | 44% | 16.5 km/h | 0.0 mm | 6.95 |
 
-> Clear Sky ☀️
+> Mainly Clear 🌤️
 
 
 ### 🇦🇺 Sydney, Australia
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 05:03 PM AEST &nbsp;|&nbsp; 📅 Monday, Aug 10 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 04:38 AM AEST &nbsp;|&nbsp; 📅 Tuesday, Aug 11 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **12.6°C** | 8.2°C | 70% | 24.9 km/h | 0.2 mm | 0.0 |
+| **13.9°C** | 10.0°C | 68% | 22.6 km/h | 0.0 mm | 0.0 |
 
-> Drizzle 🌦️
+> Mainly Clear 🌤️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 08:03 AM WAT &nbsp;|&nbsp; 📅 Monday, Aug 10 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 07:38 PM WAT &nbsp;|&nbsp; 📅 Monday, Aug 10 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **24.6°C** | 27.9°C | 87% | 12.5 km/h | 0.0 mm | 1.0 |
+| **25.0°C** | 28.2°C | 86% | 14.2 km/h | 0.0 mm | 0.0 |
 
-> Overcast ☁️
+> Partly Cloudy ⛅
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-08-10 07:03 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-08-10 18:38 UTC*
 
 </div>
