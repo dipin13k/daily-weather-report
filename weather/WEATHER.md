@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌅 Morning Update** — 2026-08-21 06:22 UTC
+> **🌆 Evening Update** — 2026-08-21 18:18 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 12:07 PM NPT | 25.2°C | Thunderstorm + Hail ⛈️ |
-| 🇮🇳 | **New Delhi** | India | 11:52 AM IST | 32.9°C | Mainly Clear 🌤️ |
-| 🇺🇸 | **New York** | USA | 02:22 AM EDT | 18.0°C | Overcast ☁️ |
-| 🇦🇺 | **Sydney** | Australia | 04:22 PM AEST | 20.3°C | Mainly Clear 🌤️ |
-| 🇳🇬 | **Lagos** | Nigeria | 07:22 AM WAT | 25.4°C | Overcast ☁️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 12:03 AM NPT | 21.5°C | Rain Showers 🌦️ |
+| 🇮🇳 | **New Delhi** | India | 11:48 PM IST | 28.6°C | Overcast ☁️ |
+| 🇺🇸 | **New York** | USA | 02:18 PM EDT | 24.0°C | Mainly Clear 🌤️ |
+| 🇦🇺 | **Sydney** | Australia | 04:18 AM AEST | 10.8°C | Clear Sky ☀️ |
+| 🇳🇬 | **Lagos** | Nigeria | 07:18 PM WAT | 26.0°C | Partly Cloudy ⛅ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:07 PM NPT &nbsp;|&nbsp; 📅 Friday, Aug 21 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 12:03 AM NPT &nbsp;|&nbsp; 📅 Saturday, Aug 22 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **25.2°C** | 30.7°C | 82% | 3.6 km/h | 1.1 mm | 5.6 |
+| **21.5°C** | 25.4°C | 94% | 2.1 km/h | 0.4 mm | 0.0 |
 
-> Thunderstorm + Hail ⛈️
+> Rain Showers 🌦️
 
 
 ### 🇮🇳 New Delhi, India
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 11:52 AM IST &nbsp;|&nbsp; 📅 Friday, Aug 21 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 11:48 PM IST &nbsp;|&nbsp; 📅 Friday, Aug 21 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **32.9°C** | 39.9°C | 63% | 8.5 km/h | 0.0 mm | 7.15 |
+| **28.6°C** | 35.7°C | 87% | 2.8 km/h | 0.0 mm | 0.0 |
 
-> Mainly Clear 🌤️
+> Overcast ☁️
 
 
 ### 🇺🇸 New York, USA
 
-**🌙 Night &nbsp;|&nbsp; 🕐 02:22 AM EDT &nbsp;|&nbsp; 📅 Friday, Aug 21 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:18 PM EDT &nbsp;|&nbsp; 📅 Friday, Aug 21 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **18.0°C** | 18.3°C | 91% | 13.3 km/h | 0.0 mm | 0.0 |
-
-> Overcast ☁️
-
-
-### 🇦🇺 Sydney, Australia
-
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:22 PM AEST &nbsp;|&nbsp; 📅 Friday, Aug 21 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **20.3°C** | 20.3°C | 56% | 3.0 km/h | 0.0 mm | 0.7 |
+| **24.0°C** | 26.5°C | 72% | 9.4 km/h | 0.0 mm | 3.15 |
 
 > Mainly Clear 🌤️
 
 
-### 🇳🇬 Lagos, Nigeria
+### 🇦🇺 Sydney, Australia
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 07:22 AM WAT &nbsp;|&nbsp; 📅 Friday, Aug 21 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 04:18 AM AEST &nbsp;|&nbsp; 📅 Saturday, Aug 22 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **25.4°C** | 30.3°C | 93% | 8.6 km/h | 0.0 mm | 0.2 |
+| **10.8°C** | 9.5°C | 90% | 7.2 km/h | 0.0 mm | 0.0 |
 
-> Overcast ☁️
+> Clear Sky ☀️
+
+
+### 🇳🇬 Lagos, Nigeria
+
+**🌇 Evening &nbsp;|&nbsp; 🕐 07:18 PM WAT &nbsp;|&nbsp; 📅 Friday, Aug 21 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **26.0°C** | 29.9°C | 87% | 13.8 km/h | 0.0 mm | 0.0 |
+
+> Partly Cloudy ⛅
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-08-21 06:22 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-08-21 18:18 UTC*
 
 </div>
