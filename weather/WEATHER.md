@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-08-23 18:10 UTC
+> **🌅 Morning Update** — 2026-08-24 06:31 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 11:55 PM NPT | 20.9°C | Overcast ☁️ |
-| 🇮🇳 | **New Delhi** | India | 11:40 PM IST | 29.3°C | Clear Sky ☀️ |
-| 🇺🇸 | **New York** | USA | 02:10 PM EDT | 24.8°C | Mainly Clear 🌤️ |
-| 🇦🇺 | **Sydney** | Australia | 04:10 AM AEST | 11.8°C | Clear Sky ☀️ |
-| 🇳🇬 | **Lagos** | Nigeria | 07:10 PM WAT | 25.8°C | Overcast ☁️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 12:16 PM NPT | 26.4°C | Thunderstorm ⛈️ |
+| 🇮🇳 | **New Delhi** | India | 12:01 PM IST | 32.4°C | Mainly Clear 🌤️ |
+| 🇺🇸 | **New York** | USA | 02:31 AM EDT | 19.0°C | Clear Sky ☀️ |
+| 🇦🇺 | **Sydney** | Australia | 04:31 PM AEST | 18.5°C | Clear Sky ☀️ |
+| 🇳🇬 | **Lagos** | Nigeria | 07:31 AM WAT | 24.5°C | Partly Cloudy ⛅ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 11:55 PM NPT &nbsp;|&nbsp; 📅 Sunday, Aug 23 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:16 PM NPT &nbsp;|&nbsp; 📅 Monday, Aug 24 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **20.9°C** | 24.7°C | 100% | 3.7 km/h | 0.0 mm | 0.0 |
+| **26.4°C** | 31.2°C | 71% | 6.6 km/h | 0.4 mm | 5.1 |
 
-> Overcast ☁️
+> Thunderstorm ⛈️
 
 
 ### 🇮🇳 New Delhi, India
 
-**🌙 Night &nbsp;|&nbsp; 🕐 11:40 PM IST &nbsp;|&nbsp; 📅 Sunday, Aug 23 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:01 PM IST &nbsp;|&nbsp; 📅 Monday, Aug 24 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **29.3°C** | 36.6°C | 84% | 1.3 km/h | 0.0 mm | 0.0 |
-
-> Clear Sky ☀️
-
-
-### 🇺🇸 New York, USA
-
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 02:10 PM EDT &nbsp;|&nbsp; 📅 Sunday, Aug 23 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **24.8°C** | 27.4°C | 80% | 14.8 km/h | 0.0 mm | 6.75 |
+| **32.4°C** | 39.7°C | 65% | 6.2 km/h | 0.0 mm | 1.2 |
 
 > Mainly Clear 🌤️
 
 
-### 🇦🇺 Sydney, Australia
+### 🇺🇸 New York, USA
 
-**🌙 Night &nbsp;|&nbsp; 🕐 04:10 AM AEST &nbsp;|&nbsp; 📅 Monday, Aug 24 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 02:31 AM EDT &nbsp;|&nbsp; 📅 Monday, Aug 24 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **11.8°C** | 11.2°C | 91% | 5.0 km/h | 0.0 mm | 0.0 |
+| **19.0°C** | 19.9°C | 85% | 9.0 km/h | 0.0 mm | 0.0 |
+
+> Clear Sky ☀️
+
+
+### 🇦🇺 Sydney, Australia
+
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:31 PM AEST &nbsp;|&nbsp; 📅 Monday, Aug 24 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **18.5°C** | 17.2°C | 80% | 19.6 km/h | 0.0 mm | 0.9 |
 
 > Clear Sky ☀️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 07:10 PM WAT &nbsp;|&nbsp; 📅 Sunday, Aug 23 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 07:31 AM WAT &nbsp;|&nbsp; 📅 Monday, Aug 24 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **25.8°C** | 30.6°C | 89% | 8.2 km/h | 0.0 mm | 0.05 |
+| **24.5°C** | 29.4°C | 94% | 6.1 km/h | 0.0 mm | 0.5 |
 
-> Overcast ☁️
+> Partly Cloudy ⛅
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-08-23 18:10 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-08-24 06:31 UTC*
 
 </div>
