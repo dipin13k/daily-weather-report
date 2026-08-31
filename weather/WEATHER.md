@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌆 Evening Update** — 2026-08-30 20:09 UTC
+> **🌅 Morning Update** — 2026-08-31 11:58 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 01:54 AM NPT | 21.1°C | Light Drizzle 🌦️ |
-| 🇮🇳 | **New Delhi** | India | 01:39 AM IST | 28.6°C | Overcast ☁️ |
-| 🇺🇸 | **New York** | USA | 04:09 PM EDT | 26.8°C | Overcast ☁️ |
-| 🇦🇺 | **Sydney** | Australia | 06:09 AM AEST | 8.9°C | Overcast ☁️ |
-| 🇳🇬 | **Lagos** | Nigeria | 09:09 PM WAT | 25.7°C | Overcast ☁️ |
+| 🇳🇵 | **Kathmandu** | Nepal | 05:43 PM NPT | 23.6°C | Light Drizzle 🌦️ |
+| 🇮🇳 | **New Delhi** | India | 05:28 PM IST | 33.8°C | Partly Cloudy ⛅ |
+| 🇺🇸 | **New York** | USA | 07:58 AM EDT | 21.1°C | Overcast ☁️ |
+| 🇦🇺 | **Sydney** | Australia | 09:58 PM AEST | 13.5°C | Clear Sky ☀️ |
+| 🇳🇬 | **Lagos** | Nigeria | 12:58 PM WAT | 27.6°C | Overcast ☁️ |
 
 ---
 
@@ -22,55 +22,55 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**🌙 Night &nbsp;|&nbsp; 🕐 01:54 AM NPT &nbsp;|&nbsp; 📅 Monday, Aug 31 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 05:43 PM NPT &nbsp;|&nbsp; 📅 Monday, Aug 31 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **21.1°C** | 25.1°C | 98% | 2.7 km/h | 0.1 mm | 0.0 |
+| **23.6°C** | 27.6°C | 86% | 3.4 km/h | 0.1 mm | 0.1 |
 
 > Light Drizzle 🌦️
 
 
 ### 🇮🇳 New Delhi, India
 
-**🌙 Night &nbsp;|&nbsp; 🕐 01:39 AM IST &nbsp;|&nbsp; 📅 Monday, Aug 31 2026**
+**🌇 Evening &nbsp;|&nbsp; 🕐 05:28 PM IST &nbsp;|&nbsp; 📅 Monday, Aug 31 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **28.6°C** | 33.6°C | 76% | 6.9 km/h | 0.0 mm | 0.0 |
+| **33.8°C** | 36.8°C | 49% | 12.1 km/h | 0.0 mm | 0.8 |
 
-> Overcast ☁️
+> Partly Cloudy ⛅
 
 
 ### 🇺🇸 New York, USA
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:09 PM EDT &nbsp;|&nbsp; 📅 Sunday, Aug 30 2026**
+**🌅 Morning &nbsp;|&nbsp; 🕐 07:58 AM EDT &nbsp;|&nbsp; 📅 Monday, Aug 31 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **26.8°C** | 28.1°C | 67% | 18.5 km/h | 0.0 mm | 4.15 |
+| **21.1°C** | 23.2°C | 85% | 7.0 km/h | 0.0 mm | 0.5 |
 
 > Overcast ☁️
 
 
 ### 🇦🇺 Sydney, Australia
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 06:09 AM AEST &nbsp;|&nbsp; 📅 Monday, Aug 31 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 09:58 PM AEST &nbsp;|&nbsp; 📅 Monday, Aug 31 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **8.9°C** | 7.3°C | 99% | 8.5 km/h | 0.0 mm | 0.0 |
+| **13.5°C** | 13.0°C | 88% | 6.1 km/h | 0.0 mm | 0.0 |
 
-> Overcast ☁️
+> Clear Sky ☀️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌙 Night &nbsp;|&nbsp; 🕐 09:09 PM WAT &nbsp;|&nbsp; 📅 Sunday, Aug 30 2026**
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 12:58 PM WAT &nbsp;|&nbsp; 📅 Monday, Aug 31 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **25.7°C** | 30.4°C | 90% | 8.2 km/h | 0.0 mm | 0.0 |
+| **27.6°C** | 31.6°C | 80% | 13.2 km/h | 0.0 mm | 4.7 |
 
 > Overcast ☁️
 
@@ -79,6 +79,6 @@
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-08-30 20:09 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-08-31 11:58 UTC*
 
 </div>
