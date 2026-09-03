@@ -1,6 +1,6 @@
 # 🌍 Live World Weather Report
 
-> **🌅 Morning Update** — 2026-09-03 10:13 UTC
+> **🌆 Evening Update** — 2026-09-03 20:12 UTC
 
 > Auto-updated twice daily via GitHub Actions • Powered by [Open-Meteo](https://open-meteo.com/)
 
@@ -10,11 +10,11 @@
 
 | # | City | Country | 🕐 Local Time | 🌡️ Temp | 🌤️ Condition |
 |---|------|---------|--------------|--------|-------------|
-| 🇳🇵 | **Kathmandu** | Nepal | 03:58 PM NPT | 23.0°C | Thunderstorm ⛈️ |
-| 🇮🇳 | **New Delhi** | India | 03:43 PM IST | 29.0°C | Light Drizzle 🌦️ |
-| 🇺🇸 | **New York** | USA | 06:13 AM EDT | 21.0°C | Overcast ☁️ |
-| 🇦🇺 | **Sydney** | Australia | 08:13 PM AEST | 18.7°C | Clear Sky ☀️ |
-| 🇳🇬 | **Lagos** | Nigeria | 11:13 AM WAT | 27.3°C | Partly Cloudy ⛅ |
+| 🇳🇵 | **Kathmandu** | Nepal | 01:57 AM NPT | 19.9°C | Overcast ☁️ |
+| 🇮🇳 | **New Delhi** | India | 01:42 AM IST | 26.9°C | Overcast ☁️ |
+| 🇺🇸 | **New York** | USA | 04:12 PM EDT | 29.0°C | Mainly Clear 🌤️ |
+| 🇦🇺 | **Sydney** | Australia | 06:12 AM AEST | 13.0°C | Clear Sky ☀️ |
+| 🇳🇬 | **Lagos** | Nigeria | 09:12 PM WAT | 26.0°C | Clear Sky ☀️ |
 
 ---
 
@@ -22,63 +22,63 @@
 
 ### 🇳🇵 Kathmandu, Nepal
 
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:58 PM NPT &nbsp;|&nbsp; 📅 Thursday, Sep 03 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 01:57 AM NPT &nbsp;|&nbsp; 📅 Friday, Sep 04 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **23.0°C** | 26.7°C | 86% | 3.1 km/h | 0.9 mm | 2.4 |
-
-> Thunderstorm ⛈️
-
-
-### 🇮🇳 New Delhi, India
-
-**☀️ Afternoon &nbsp;|&nbsp; 🕐 03:43 PM IST &nbsp;|&nbsp; 📅 Thursday, Sep 03 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **29.0°C** | 35.2°C | 80% | 5.1 km/h | 0.1 mm | 0.3 |
-
-> Light Drizzle 🌦️
-
-
-### 🇺🇸 New York, USA
-
-**🌅 Morning &nbsp;|&nbsp; 🕐 06:13 AM EDT &nbsp;|&nbsp; 📅 Thursday, Sep 03 2026**
-
-| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
-|--------------|--------------|------------|--------|-----------------|------------|
-| **21.0°C** | 22.6°C | 94% | 15.6 km/h | 0.0 mm | 0.0 |
+| **19.9°C** | 23.2°C | 99% | 3.9 km/h | 0.0 mm | 0.0 |
 
 > Overcast ☁️
 
 
-### 🇦🇺 Sydney, Australia
+### 🇮🇳 New Delhi, India
 
-**🌇 Evening &nbsp;|&nbsp; 🕐 08:13 PM AEST &nbsp;|&nbsp; 📅 Thursday, Sep 03 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 01:42 AM IST &nbsp;|&nbsp; 📅 Friday, Sep 04 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **18.7°C** | 15.8°C | 45% | 13.7 km/h | 0.0 mm | 0.0 |
+| **26.9°C** | 33.5°C | 92% | 2.5 km/h | 0.0 mm | 0.0 |
+
+> Overcast ☁️
+
+
+### 🇺🇸 New York, USA
+
+**☀️ Afternoon &nbsp;|&nbsp; 🕐 04:12 PM EDT &nbsp;|&nbsp; 📅 Thursday, Sep 03 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **29.0°C** | 32.3°C | 66% | 11.3 km/h | 0.0 mm | 4.2 |
+
+> Mainly Clear 🌤️
+
+
+### 🇦🇺 Sydney, Australia
+
+**🌅 Morning &nbsp;|&nbsp; 🕐 06:12 AM AEST &nbsp;|&nbsp; 📅 Friday, Sep 04 2026**
+
+| 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
+|--------------|--------------|------------|--------|-----------------|------------|
+| **13.0°C** | 10.3°C | 66% | 12.7 km/h | 0.0 mm | 0.0 |
 
 > Clear Sky ☀️
 
 
 ### 🇳🇬 Lagos, Nigeria
 
-**🌅 Morning &nbsp;|&nbsp; 🕐 11:13 AM WAT &nbsp;|&nbsp; 📅 Thursday, Sep 03 2026**
+**🌙 Night &nbsp;|&nbsp; 🕐 09:12 PM WAT &nbsp;|&nbsp; 📅 Thursday, Sep 03 2026**
 
 | 🌡️ Temperature | 🤔 Feels Like | 💧 Humidity | 💨 Wind | 🌧️ Precipitation | 🔆 UV Index |
 |--------------|--------------|------------|--------|-----------------|------------|
-| **27.3°C** | 31.5°C | 80% | 10.5 km/h | 0.0 mm | 3.25 |
+| **26.0°C** | 30.6°C | 89% | 10.5 km/h | 0.0 mm | 0.0 |
 
-> Partly Cloudy ⛅
+> Clear Sky ☀️
 
 
 ---
 
 <div align='center'>
 
-⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-09-03 10:13 UTC*
+⏱️ *Next update in ~12 hours &nbsp;•&nbsp; Last run: 2026-09-03 20:12 UTC*
 
 </div>
